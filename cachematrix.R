@@ -32,7 +32,7 @@ makeCacheMatrix <- function(m = matrix())
     
 }
 
-
+##
 ## Function retrieves and returns the inverse matrix if it has been cached. 
 ## IF it has not calculated and cached the inverse, then it does so.
 ## The function is used with the special matix created using the "createCacheMatrix" function
